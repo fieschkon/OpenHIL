@@ -1,0 +1,9 @@
+[submodule "OpenHIL-Control-Firmware"]
+	path = OpenHIL-Control-Firmware
+	url = https://github.com/fieschkon/OpenHIL-Control-Firmware
+[submodule "OpenHIL-Python"]
+	path = OpenHIL-Python
+	url = https://github.com/fieschkon/OpenHIL-Python
+[submodule "OpenHIL-Hardware"]
+	path = OpenHIL-Hardware
+	url = https://github.com/fieschkon/OpenHIL-Hardware
